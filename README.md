@@ -10,7 +10,8 @@ Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.or
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-ps: 作者就是写了个css, 比较简单的样式.
+--------------------
+ps: 作者就是写了个css, 比较简单的样式, 用于github pages. 另外还有一个[主题](https://github.com/orderedlist/modernist).
 
 
 
